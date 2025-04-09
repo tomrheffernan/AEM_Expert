@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# AEM Expert Training
+Hands on work
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
